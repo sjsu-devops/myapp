@@ -1,0 +1,26 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Node JS Hello World app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjsu-devops/myapp.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "HelloWorld"
+  ],
+  "author": "Hans Cheung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjsu-devops/myapp/issues"
+  },
+  "homepage": "https://github.com/sjsu-devops/myapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

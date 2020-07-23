@@ -1,0 +1,15 @@
+/build
+/node_modules
+/temp
+/testing
+/docs
+npm-debug.log
+.DS_Store
+.npmrc
+.vscode/settings.json
+dummy.js
+*.sublime-project
+*.sublime-workspace
+newrelic_agent.log
+coverage
+package-lock.json
